@@ -23,7 +23,7 @@ Soy un estudiante del grado de Ingeniería Informática en la Universidad de San
 
 ## 📈 Estadísticas de GitHub
 
-![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=tu_usuario&show_icons=true&theme=radical)
+![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=MiguiLeal8&show_icons=true&theme=radical)
 
 ## 📫 Cómo contactarme
 
