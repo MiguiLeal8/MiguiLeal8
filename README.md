@@ -28,4 +28,4 @@ Soy un estudiante del grado de Ingeniería Informática en la Universidad de San
 ## 📫 Cómo contactarme
 
 - 📧 Correo electrónico: [miguileal8@gmail.com](mailto:miguileal8@gmail.com)
-- 💼 LinkedIn: [Miguel Leal Fernández](https://www.linkedin.com/in/miguel-leal-fernández-6a0852329)
+- 💼 LinkedIn: [Miguel Leal Fernández](https://www.linkedin.com/in/miguel-leal-fernandez-6a0852329)
