@@ -3,7 +3,7 @@
 ## 💼 Sobre mí
 
 Soy un estudiante del grado de Ingeniería Informática en la Universidad de Santiago de Compostela. Me apasiona todo lo que tenga que ver cocn la informática, en concreto la Inteligencia Aritifcial y el desarrollo Frontend. Actualmente, estoy trabajando en:
-- **TFG**: Detección de anomalías en imágenes multiespectrales con el modelo HVQ-TR.
+- **TFG**: Detección de anomalías en imágenes multiespectrales con el modelo HVQ-TR. ([HVQ-TR multiespectral](https://github.com/MiguiLeal8/HVQ-TR_multispectral))
 - **Aplicación móvil**: Desarrollo de una app para mejorar la adherencia a los medicamentos ([Web Meditracker](https://www.meditracker.eu/)).
 - **Backend en SYCL**: Simulación de una QPU sobre otro dispositivo para ejecutar circuitos cuánticos con Qiskit Aer ([SYCL QPU](https://github.com/MiguiLeal8/llvm/tree/feature/qpu_selector)).
 
